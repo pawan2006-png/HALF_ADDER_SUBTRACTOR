@@ -80,4 +80,5 @@ RegisterNumber:212223220074
 ![Screenshot 2024-04-03 101749](https://github.com/pawan2006-png/HALF_ADDER_SUBTRACTOR/assets/150067867/a55b7cf3-6bee-49d8-be49-5206771c0c46)
 
 **Result:**
-Thus, a half adder and half subtractor circuit is designed to verify its truth table in Quartus using Verilog programming.
+
+  Thus, a half adder and half subtractor circuit is designed to verify its truth table in Quartus using Verilog programming.
